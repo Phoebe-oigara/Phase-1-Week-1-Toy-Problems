@@ -26,4 +26,5 @@ To use these code files, follow the instructions below:
 5. Wait for pull request to be merged
 
 **Author and License**
+
 This repository is authored by Phoebe Oigara. The code is licensed under the GPL license. Feel free to use and modify the code as you see fit, but please attribute the original work to Phoebe Oigara.
